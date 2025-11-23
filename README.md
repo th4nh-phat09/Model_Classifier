@@ -217,8 +217,8 @@ module.exports = {
 
 ## 🔗 Related Repositories
 
-- **Frontend**: [heritage-naver-fe](../heritage-naver-fe)
-- **Backend API**: [heritage-naver-api](../heritage-naver-api)
+- **Frontend**: [heritage-naver-fe](https://github.com/phanvanthuan06052004/heritage-naver-fe)
+- **Backend API**: [heritage-naver-api](https://github.com/phanvanthuan06052004/heritage-naver-api)
 
 ## 📊 API Usage Example
 
