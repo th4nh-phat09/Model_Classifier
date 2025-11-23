@@ -260,4 +260,4 @@ MIT
 
 ## 👥 Contributors
 
-- Phan Van Thuan (@phanvanthuan06052004)
+- Nguyen An Thanh Phat (thanphat354@gmail.com)
